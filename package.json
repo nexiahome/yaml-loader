@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/okonet/yaml-loader",
   "dependencies": {
-    "js-yaml": "^3.5.2"
+    "js-yaml": "^3.5.2",
+    "loader-utils": "^1.1.0",
+    "lodash.clonedeep": "^4.5.0"
   }
 }
